@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/pulindi15/Pulindi15/blob/main/pulindi_banner.png" alt="Banner Image">
+</p>
 
 <!-- Heading and Introduction -->
 <h1 align="center">Hello 👋, I'm <a href="https://pulindi15.github.io/pulindi_portfolio/" target="blank">
