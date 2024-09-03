@@ -22,12 +22,12 @@ Pulindi Dhanesha</a></h1>
 
 <p>
   <a href="https://www.linkedin.com/in/pulindi-dhanesha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:pulindidhanesha15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/pulindi15"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/engg_pulindi/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~0126099bc72ce55161/"><img src="https://img.shields.io/badge/-Upwork-73bb44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
-  <a href="https://www.fiverr.com/pulindi"><img src="https://img.shields.io/badge/-Fiverr-00b22d?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
-  <a href="https://medium.com/@pulindidhanesha15"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
+  <a href="mailto:pulindidhanesha15@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/pulindi15" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/engg_pulindi/" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~0126099bc72ce55161/" target="_blank"><img src="https://img.shields.io/badge/-Upwork-73bb44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/pulindi" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-00b22d?style=for-the-badge&logo=Fiverr&logoColor=white"/></a>
+  <a href="https://medium.com/@pulindidhanesha15" target="_blank"><img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
 </p>
 
 
