@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/pulindi15/Pulindi15/blob/main/pulindi_banner.png" alt="Banner Image">
+  <img src="https://github.com/pulindi15/Pulindi15/blob/main/pulindi_banner1.png" alt="Banner Image">
 </p>
 
 <!-- Heading and Introduction -->
